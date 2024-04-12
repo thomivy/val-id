@@ -3,9 +3,8 @@ This is a Node.js script that retrieves validator identities from different Polk
 
 ## Features
 - Retrieves validator identities from Polkadot and Tangle Mainnet networks
-- Exports the validator identities to CSV files
-- Logs any errors encountered during the scraping process to separate error log files
-- Handles timeouts and errors gracefully
+- Exports the validator identities to indendent and dated CSV files
+- Handles timeouts gracefully
 
 ## Prerequisites
 Before running the script, ensure that you have the following:
